@@ -440,7 +440,7 @@ body{
 
 .centered p:nth-child(3){
     letter-spacing:0px;
-    font-size:20px;
+    font-size:15px;
 }
 .centered button{
     justify-content:space-between;
@@ -467,7 +467,7 @@ body{
 .about-text p:nth-child(3),
 .about-text p:nth-child(4){
    margin-left:-95px;
-   font-size:15px;
+   font-size:10px;
 }
 .about-text button{
     margin-top:5px;
@@ -485,7 +485,7 @@ body{
     
 }
 .services-text p:nth-child(3){
-    margin-left:-70%;
+    margin-left:-80%;
     
 }
 .services-text{
