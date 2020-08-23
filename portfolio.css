@@ -467,7 +467,7 @@ body{
 .about-text p:nth-child(3),
 .about-text p:nth-child(4){
    margin-left:-95px;
-   font-size:15px;
+   font-size:10px;
    font-weight:700;
 }
 .about-text button{
@@ -486,8 +486,8 @@ body{
     
 }
 .services-text p:nth-child(3){
-    margin-right:70%;
-    font-size:15px;
+    margin-right:76%;
+    /* font-size:15px; */
     
 }
 .services-text{
