@@ -486,7 +486,7 @@ body{
     
 }
 .services-text p:nth-child(3){
-    margin-right:76%;
+    margin-left:-76%;
     /* font-size:15px; */
     
 }
